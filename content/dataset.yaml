@@ -1,0 +1,6 @@
+
+train: /content/YoloV8/idd20k_lite/leftImg8bit/train
+val: /content/YoloV8/idd20k_lite/leftImg8bit/val
+
+nc: 3
+names: ['ClassId0','ClassId1','Person']
